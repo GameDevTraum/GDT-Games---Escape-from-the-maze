@@ -5,6 +5,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: -4216859302048453862, guid: 1290a973ec7aeda49850333075bd19fb, type: 3}
@@ -71,11 +72,30 @@ PrefabInstance:
       propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -1504981713932161579, guid: 1290a973ec7aeda49850333075bd19fb, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -927199367670048503, guid: 1290a973ec7aeda49850333075bd19fb, type: 3}
       propertyPath: m_Name
       value: Canon Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: -927199367670048503, guid: 1290a973ec7aeda49850333075bd19fb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 967724105}
+    - targetCorrespondingSourceObject: {fileID: -927199367670048503, guid: 1290a973ec7aeda49850333075bd19fb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1211941265}
+    - targetCorrespondingSourceObject: {fileID: -927199367670048503, guid: 1290a973ec7aeda49850333075bd19fb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 967724104}
+    - targetCorrespondingSourceObject: {fileID: -927199367670048503, guid: 1290a973ec7aeda49850333075bd19fb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1211941266}
   m_SourcePrefab: {fileID: 100100000, guid: 1290a973ec7aeda49850333075bd19fb, type: 3}
 --- !u!1 &3742168762767666220 stripped
 GameObject:
@@ -90,9 +110,17 @@ SphereCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3742168762767666220}
   m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
   m_IsTrigger: 1
+  m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 2
+  serializedVersion: 3
   m_Radius: 0.012
   m_Center: {x: -0.0022675777, y: -0.00000003760214, z: 0.0034773797}
 --- !u!82 &1211941265
@@ -105,9 +133,10 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 58897e00225687b408b6862d0194f71f, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 4a8acfec01edbf04d9375bb105fd75c9, type: 3}
+  m_Resource: {fileID: 8300000, guid: 4a8acfec01edbf04d9375bb105fd75c9, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.5
+  m_Volume: 0.1
   m_Pitch: 1
   Loop: 1
   Mute: 0

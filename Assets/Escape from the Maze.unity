@@ -32430,21 +32430,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 198073707}
     m_Modifications:
-    - target: {fileID: 5124388611932757869, guid: 556fe1d0fb402bb46abef9071e993023, type: 3}
-      propertyPath: m_CastShadows
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5124388611932757869, guid: 556fe1d0fb402bb46abef9071e993023, type: 3}
-      propertyPath: m_ReceiveShadows
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6854947327285472177, guid: 556fe1d0fb402bb46abef9071e993023, type: 3}
       propertyPath: m_Name
       value: Car
-      objectReference: {fileID: 0}
-    - target: {fileID: 7600655183274301858, guid: 556fe1d0fb402bb46abef9071e993023, type: 3}
-      propertyPath: m_RootOrder
-      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7600655183274301858, guid: 556fe1d0fb402bb46abef9071e993023, type: 3}
       propertyPath: m_LocalPosition.x
@@ -32500,10 +32488,6 @@ PrefabInstance:
     m_TransformParent: {fileID: 198073707}
     m_Modifications:
     - target: {fileID: 411379463901847103, guid: be619493ed789cc4ead54d3e26aace89, type: 3}
-      propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 411379463901847103, guid: be619493ed789cc4ead54d3e26aace89, type: 3}
       propertyPath: m_LocalPosition.x
       value: 14.46
       objectReference: {fileID: 0}
@@ -32543,14 +32527,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3157600191679715568, guid: be619493ed789cc4ead54d3e26aace89, type: 3}
-      propertyPath: m_CastShadows
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3157600191679715568, guid: be619493ed789cc4ead54d3e26aace89, type: 3}
-      propertyPath: m_ReceiveShadows
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 3742168762767666220, guid: be619493ed789cc4ead54d3e26aace89, type: 3}
       propertyPath: m_Name
       value: Cannon
@@ -32568,10 +32544,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 198073707}
     m_Modifications:
-    - target: {fileID: 263879476260860719, guid: 0da683632d696e944905568d67b916cc, type: 3}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
     - target: {fileID: 263879476260860719, guid: 0da683632d696e944905568d67b916cc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 14.19
@@ -32610,14 +32582,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 263879476260860719, guid: 0da683632d696e944905568d67b916cc, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3300842930369967584, guid: 0da683632d696e944905568d67b916cc, type: 3}
-      propertyPath: m_CastShadows
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3300842930369967584, guid: 0da683632d696e944905568d67b916cc, type: 3}
-      propertyPath: m_ReceiveShadows
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3887210267634663740, guid: 0da683632d696e944905568d67b916cc, type: 3}
@@ -32703,10 +32667,6 @@ PrefabInstance:
     m_TransformParent: {fileID: 198073707}
     m_Modifications:
     - target: {fileID: 1181586351162336780, guid: f513e03f75125d04997b024c86f0ee0a, type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1181586351162336780, guid: f513e03f75125d04997b024c86f0ee0a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 16.24
       objectReference: {fileID: 0}
@@ -32750,14 +32710,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Balloon
       objectReference: {fileID: 0}
-    - target: {fileID: 4468231993162719427, guid: f513e03f75125d04997b024c86f0ee0a, type: 3}
-      propertyPath: m_CastShadows
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4468231993162719427, guid: f513e03f75125d04997b024c86f0ee0a, type: 3}
-      propertyPath: m_ReceiveShadows
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32771,21 +32723,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 198073707}
     m_Modifications:
-    - target: {fileID: 1110334031938378061, guid: a378ce1470c4c1742995f844a561de6d, type: 3}
-      propertyPath: m_CastShadows
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1110334031938378061, guid: a378ce1470c4c1742995f844a561de6d, type: 3}
-      propertyPath: m_ReceiveShadows
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1681079508077440401, guid: a378ce1470c4c1742995f844a561de6d, type: 3}
       propertyPath: m_Name
       value: Violin
-      objectReference: {fileID: 0}
-    - target: {fileID: 2382190068857184130, guid: a378ce1470c4c1742995f844a561de6d, type: 3}
-      propertyPath: m_RootOrder
-      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2382190068857184130, guid: a378ce1470c4c1742995f844a561de6d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -32840,14 +32780,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 198073707}
     m_Modifications:
-    - target: {fileID: 830047423, guid: 954e4b4460d543545819d48eb88e9f79, type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8482276939815947201, guid: 954e4b4460d543545819d48eb88e9f79, type: 3}
-      propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
     - target: {fileID: 8482276939815947201, guid: 954e4b4460d543545819d48eb88e9f79, type: 3}
       propertyPath: m_LocalPosition.x
       value: 15.967178
@@ -32888,20 +32820,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8482276939815947203, guid: 954e4b4460d543545819d48eb88e9f79, type: 3}
-      propertyPath: m_CastShadows
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8482276939815947203, guid: 954e4b4460d543545819d48eb88e9f79, type: 3}
-      propertyPath: m_ReceiveShadows
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 8482276939815947205, guid: 954e4b4460d543545819d48eb88e9f79, type: 3}
       propertyPath: m_Name
       value: Planet
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 830047423, guid: 954e4b4460d543545819d48eb88e9f79, type: 3}
+    m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
