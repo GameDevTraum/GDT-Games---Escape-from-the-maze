@@ -5,3 +5,5 @@ Unity 6000.0.28f1
 A simple exploration game made in Unity where you need to find certain objects inside a maze to be able to escape from it.
 
 ![gdt-games-escape-from-the-maze-test-gif](https://github.com/user-attachments/assets/ee18a66d-34d4-4e4f-9c69-174d7bf4a261)
+
+This branch contains the original project created in 2020.
