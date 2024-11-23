@@ -1,4 +1,5 @@
-# GDT Games Escape from the Maze
- A simple exploration game where you need to find certain objects inside a maze to be able to escape from it.
+![GDT-Games-Escape-From-The-Maze-GitHub-Main](https://github.com/user-attachments/assets/b0e1df77-325b-4cb5-a007-b9090f0e386f)
+# Escape from the Maze
+ A simple exploration game made in Unity where you need to find certain objects inside a maze to be able to escape from it.
 
-![GDT-Games-Escape-From-The-Maze-GitHub-Main](https://github.com/user-attachments/assets/8d12652c-7844-4bd2-9b6f-d9fe793d547a)
+![gdt-games-escape-from-the-maze-test-gif](https://github.com/user-attachments/assets/ee18a66d-34d4-4e4f-9c69-174d7bf4a261)
